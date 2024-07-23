@@ -1,1 +1,5 @@
 example2.py
+csv_files-20240719T143156Z-001/csv_files/company_dim.csv
+csv_files-20240719T143156Z-001/csv_files/job_postings_fact.csv
+csv_files-20240719T143156Z-001/csv_files/skills_dim.csv
+csv_files-20240719T143156Z-001/csv_files/skills_job_dim.csv
